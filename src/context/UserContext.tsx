@@ -21,7 +21,7 @@ const VALID_CREDENTIALS = [
     email: 'admin@linodegpu.com',
     password: 'TestPassword@123',
     domain: 'linodegpu' as const,
-    hasSuspendedPayment: false,
+    hasSuspendedPayment: true,
     totalAmount: 5490,
     licenses: 121,
     pricePerUser: 45,
